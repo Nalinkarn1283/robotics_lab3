@@ -1,5 +1,6 @@
 input = "The sunset sets at twelve o'clock"
 
+
 def alphabet_position(input):
     alphabet = ""
     input = input.lower()
